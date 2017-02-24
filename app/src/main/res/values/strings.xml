@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FavoriteContacts</string>
+    <string name="favorite_contacts">Favorite Contacts</string>
+    <string name="oda_nobunaga">Oda Nobunaga</string>
+    <string name="_555_3457">555-3457</string>
+    <string name="text">Text</string>
+    <string name="call">Call</string>
+    <string name="_555_6987">555-6987</string>
+    <string name="_555_9034">555-9034</string>
+    <string name="tokugawa_ieyasu">Tokugawa Ieyasu</string>
+    <string name="toyotomi_hideyoshi">Toyotomi Hideyoshi</string>
+</resources>
